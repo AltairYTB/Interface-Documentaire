@@ -135,7 +135,7 @@
       <span class="dots">...</span>
       <div>
         Focus sur les militants écolos qui mènent des combats au quotidien, en occupant des ZAD, en construisant des éco-hameaux, ou en lançant des actions coup de poing. Un portrait de l'activisme vert d'aujourd'hui.
-        <a href="resistervert.html" class="btn-more">En savoir plus</a>
+        <a href="https://altairytb.github.io/Resiter-En-Vert/" class="btn-more">En savoir plus</a>
       </div>
     </div>
   </section>
