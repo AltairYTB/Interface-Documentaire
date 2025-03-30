@@ -84,7 +84,7 @@
       <span class="dots">...</span>
       <div>
         Exploration des secrets de famille qui traversent les générations, et leur impact sur la construction de soi. À travers des témoignages poignants, ce documentaire plonge dans les non-dits et leurs conséquences.
-        <a href="heritierssilence.html" class="btn-more">En savoir plus</a>
+        <a href="https://altairytb.github.io/Ls-Hertier-Du-Silence-/" class="btn-more">En savoir plus</a>
       </div>
     </div>
 
