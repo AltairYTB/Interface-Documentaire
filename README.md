@@ -126,7 +126,7 @@
       <span class="dots">...</span>
       <div>
         Ce documentaire explore les villages abandonnés, engloutis par des projets industriels ou le changement climatique. Des paysages d'autrefois devenus des témoins du passé, révélant les conséquences de nos choix.
-        <a href="terresperdues.html" class="btn-more">En savoir plus</a>
+        <a href="https://altairytb.github.io/Terre-Perdu/" class="btn-more">En savoir plus</a>
       </div>
     </div>
 
