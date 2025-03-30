@@ -114,7 +114,7 @@
       <span class="dots">...</span>
       <div>
         Enquête sur l'impact des algorithmes dans notre vie quotidienne. De Spotify à Tinder en passant par les décisions de justice, ce documentaire analyse comment ces technologies influencent nos choix.
-        <a href="amialgorithme.html" class="btn-more">En savoir plus</a>
+        <a href="https://altairytb.github.io/L-Algorithme-/" class="btn-more">En savoir plus</a>
       </div>
     </div>
   </section>
