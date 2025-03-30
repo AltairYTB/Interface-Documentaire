@@ -75,7 +75,7 @@
       <span class="dots">...</span>
       <div>
         Ce documentaire explore la vie des jeunes adultes qui vivent dans des espaces alternatifs : en colocation, en van, ou en squats. Un voyage entre précarité, liberté et créativité.
-        <a href="genflottante.html" class="btn-more">En savoir plus</a>
+        <a href="https://altairytb.github.io/Gen-Flottante/" class="btn-more">En savoir plus</a>
       </div>
     </div>
 
