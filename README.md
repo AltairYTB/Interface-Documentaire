@@ -105,7 +105,7 @@
       <span class="dots">...</span>
       <div>
         Des individus choisissent volontairement de quitter Internet pendant un mois, un an, ou même pour toujours. Ce documentaire questionne notre dépendance à la technologie et les effets de cette déconnexion sur la société moderne.
-        <a href="deconnectes.html" class="btn-more">En savoir plus</a>
+        <a href="https://altairytb.github.io/Les-D-connect-/" class="btn-more">En savoir plus</a>
       </div>
     </div>
 
