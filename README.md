@@ -93,7 +93,7 @@
       <span class="dots">...</span>
       <div>
         Les invisibles sont ceux qui, pourtant essentiels à la société, vivent dans l'ombre. Éboueurs, aides-soignants, livreurs... Ce film propose de les suivre dans leur quotidien, raconté de leur point de vue.
-        <a href="invisibles.html" class="btn-more">En savoir plus</a>
+        <a href="https://altairytb.github.io/Les-Invisible/" class="btn-more">En savoir plus</a>
       </div>
     </div>
   </section>
